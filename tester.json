@@ -1,0 +1,28 @@
+{
+  "openapi": "3.0.2",
+  "info": {
+    "title": "Test API",
+    "description": "Test API",
+    "version": "1.0.0",
+    "x-logo": {
+      "url": "javascript:window.location.href='https://evil.com'"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://evil.com"
+    }
+  ],
+  "paths": {
+    "/": {
+      "get": {
+        "summary": "Test endpoint",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  }
+}
