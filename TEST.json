@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/Bhavana-raj/html-injection-test/blob/main/xss.yaml",
+    "urls": [
+        {
+            "url": "https://github.com/Bhavana-raj/html-injection-test/blob/main/xss.yaml",
+            "name": "Foo"
+        }
+    ]
+}
