@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/Bhavana-raj/html-injection-test/blob/main/xss.yaml",
+    "url": "https://raw.githubusercontent.com/Bhavana-raj/html-injection-test/main/xss.yaml",
     "urls": [
         {
-            "url": "https://github.com/Bhavana-raj/html-injection-test/blob/main/xss.yaml",
+            "url": "https://raw.githubusercontent.com/Bhavana-raj/html-injection-test/main/xss.yaml",
             "name": "WGIApps Microservices API-SecurityGateway v1"
         }
     ]
