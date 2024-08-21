@@ -1,0 +1,4 @@
+{
+  "description": "This is a test for HTML injection",
+  "payload": "<html>\n<body>\n  <h1>HTML Injection Test</h1>\n  <p>Click the link below:</p>\n  <a href=\"https://www.evil.com\">Click me!</a>\n</body>\n</html>"
+}
