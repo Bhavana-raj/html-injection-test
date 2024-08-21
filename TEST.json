@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/Bhavana-raj/html-injection-test/main/xss.yaml",
-            "name": "WGIApps Microservices API-SecurityGateway v1"
+            "name": "WGIApps Microservices API"
         }
     ]
 }
