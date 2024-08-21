@@ -1,0 +1,9 @@
+description: "This is a test for HTML injection"
+payload: |
+  <html>
+  <body>
+    <h1>HTML Injection Test</h1>
+    <p>Click the link below:</p>
+    <a href="https://www.evil.com">Click me!</a>
+  </body>
+  </html>
